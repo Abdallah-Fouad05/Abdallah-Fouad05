@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 Hi, I'm Abdallah Fouad<br><br>💻 **Junior .NET Backend Developer** passionate about building clean, secure, and scalable web applications.<br><br>🚀 I work mainly with:<br><br>* C# & .NET / ASP.NET Core<br>* RESTful APIs<br>* Entity Framework Core & ADO.NET<br>* SQL Server<br>* Clean Architecture & SOLID<br>* ASP.NET Identity & JWT Authentication<br><br><br>📚 Currently improving my skills in **Backend Development, System Design, Docker, and Cloud Technologies**.<br><br>🎯 My goal is to become a strong **Backend / Full Stack .NET Developer** and build real-world projects that solve practical problems.<br><br>📫 Feel free to explore my repositories and connect with me!<br>
+## 👋 Hi, I'm Abdallah Fouad<br><br>💻 **Junior .NET Backend Developer** passionate about building clean, secure, and scalable web applications.<br>
 
 
 ## 🌐 Socials:
